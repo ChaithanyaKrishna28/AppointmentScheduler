@@ -38,7 +38,9 @@ Alternatively, you can access the live version of the project [here](https://cha
 
 ## Credits
 
-This project was created by [Your Name] as part of [Course/Project/Personal Development]. Feel free to contribute by submitting bug fixes or enhancements via pull requests.
+## Credits
+
+This project was created by [Chaithanya Krishna](https://github.com/ChaithanyaKrishna28). Feel free to contribute by submitting bug fixes or enhancements via pull requests.
 
 ## License
 
